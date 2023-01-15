@@ -1,5 +1,5 @@
 //factorial while
-var dato = 5;
+var dato = 10;
 var resultado = dato;
 var index = 1;
 while (index < dato) {

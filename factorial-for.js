@@ -1,6 +1,6 @@
 //factorial for
 
-var dato = 5;
+var dato = 10;
 var resultado = dato;
 for (let index = 1 ; index < dato; index++) {
     resultado = resultado * index;
